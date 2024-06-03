@@ -16,7 +16,7 @@ function ConsultarCitas() {
       setError('');
     } else {
       setCitas([]);
-      setError('No se encontraron citas para el DNI ingresado.');
+      setError('Intenta ingresar datos validos.');
     }
   };
 
