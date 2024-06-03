@@ -8,7 +8,7 @@ function Home() {
       <img src={clinicaImage} alt="Clínica" className="clinica-image" />
       <p>Ofrecemos servicios de diagnóstico y tratamiento de problemas auditivos.</p>
       <button>
-        <Link to="/solicitar-cita">Eliminar Cita en la clínica audiológica</Link>
+        <Link to="/solicitar-cita">Solicitar Cita</Link>
       </button>
       <div className="card-container">
         <div className="card">
